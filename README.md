@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @logiksjaeger
-- 👀 I’m interested in Object Oriented Coding in Python
-- 🌱 I’m currently learning Python
 - 📫 Reach me at logiksjaeger@gmail.com
+- Coding, 3D Printing, CNCs, and more.
 
 <!---
 logiksjaeger/logiksjaeger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
